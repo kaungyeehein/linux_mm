@@ -1,1 +1,60 @@
-theme: jekyll-theme-minimal
+# --- Required options ---
+title: My Website
+author: John Doe
+# --- Navigation Bar Links ---
+navbar-links:
+ About Me: "aboutme"
+ Blog: "/blog"
+ Resources:
+   - GitHub Pages Docs: "https://docs.github.com/en/pages"
+   - Learn Markdown: "https://www.markdowntutorial.com/"
+# --- Logo ---
+avatar: "/assets/img/avatar.png"
+round-avatar: true
+# --- Social Media Links ---
+social-network-links:
+ email: "john@example.com"
+ github: johndoe
+ twitter: johndoe
+ linkedin: johndoe
+rss-description: "A blog about coding and technology"
+# --- General Options ---
+share-links-active:
+ twitter: true
+ facebook: true
+ linkedin: true
+url-pretty: "mywebsite.com"
+title-on-all-pages: true
+excerpt_length: 50
+feed_show_excerpt: true
+feed_show_tags: true
+post_search: true
+edit_page_button: true
+# --- Colors ---
+page-col: "#FFFFFF"
+text-col: "#333333"
+link-col: "#007BFF"
+hover-col: "#0056b3"
+# --- Plugins ---
+plugins:
+ - jekyll-paginate
+ - jekyll-sitemap
+# --- Output Options ---
+timezone: "America/New_York"
+markdown: kramdown
+highlighter: rouge
+permalink: /:year-:month-:day-:title/
+paginate: 5
+# --- Defaults ---
+defaults:
+ - scope:
+     path: ""
+     type: "posts"
+   values:
+     layout: "post"
+     comments: true
+     social-share: true
+ - scope:
+     path: ""
+   values:
+     layout: "page"
