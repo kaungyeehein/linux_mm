@@ -1,8 +1,1 @@
-theme: jekyll-theme-cayman
-show_downloads: true
-
-markdown: kramdown
-highlighter: rouge
-kramdown:
-  input: GFM
-  syntax_highlighter: rouge
+theme: jekyll-theme-minimal
