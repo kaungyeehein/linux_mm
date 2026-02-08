@@ -36,3 +36,5 @@ Versoin 1.6 Myanmar Note
 ---
 
 Reference: [https://learning.lpi.org/en/learning-materials/010-160/](https://learning.lpi.org/en/learning-materials/010-160/)
+
+မှတ်ချက်။ မှတ်စုတို ဖြစ်သည့်အတွက် မူရင်စာအုပ်အတိုင်း အားလုံးပါဝင်မည်မဟုတ်ပါ။ Topic တစ်ခုကို မြန်မာလိုဖတ်ပြီးမှ၊ မူရင်းစာအုပ်ကို ဖတ်ကာ လက်တွေ့လေ့ကျင့်မှ အသေးစိတ်နားလည်ပြီး အခြေခံပိုင်နိုင်မှာ ဖြစ်ပါတယ်။
