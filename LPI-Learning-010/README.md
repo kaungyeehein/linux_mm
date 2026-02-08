@@ -37,3 +37,9 @@
 * [၅.၂ အသုံးပြုသူ (Users) နှင့် အုပ်စု (Groups) များ ဖန်တီးခြင်း](5.2_Creating_Users_and_Groups.md)
 * [၅.၃ ဖိုင်ခွင့်ပြုချက်များနှင့် ပိုင်ဆိုင်မှုများကို စီမံခန့်ခွဲခြင်း](5.3_Managing_File_Permissions_and_Ownership.md)
 * [၅.၄ အထူး Directory များနှင့် ဖိုင်များ](5.4_Special_Directories_and_Files.md)
+
+---
+
+Reference: [https://learning.lpi.org/en/learning-materials/010-160/](https://learning.lpi.org/en/learning-materials/010-160/)
+
+မှတ်ချက်။ မှတ်စုတို ဖြစ်သည့်အတွက် မူရင်စာအုပ်အတိုင်း အားလုံးပါဝင်မည်မဟုတ်ပါ။ Topic တစ်ခုကို မြန်မာလိုဖတ်ပြီးမှ၊ မူရင်းစာအုပ်ကို ဖတ်ကာ လက်တွေ့လေ့ကျင့်မှ အသေးစိတ်နားလည်ပြီး အခြေခံပိုင်နိုင်မှာ ဖြစ်ပါတယ်။
