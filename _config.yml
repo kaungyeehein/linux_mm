@@ -1,5 +1,5 @@
 theme: jekyll-theme-cayman
-show_downloads: false
+show_downloads: true
 
 markdown: kramdown
 highlighter: rouge
