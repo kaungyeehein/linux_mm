@@ -22,7 +22,7 @@
 * [၂.၄ ဖိုင်များကို ဖန်တီးခြင်း၊ ရွှေ့ပြောင်းခြင်းနှင့် ဖျက်ပစ်ခြင်း](2.4_Creating_Moving_and_Deleting_Files.md)
 
 ### TOPIC 3: THE POWER OF THE COMMAND LINE
-* [၃.၁ Command Line ပေါ်တွင် ဖိုင်များကို သိမ်းဆည်းခြင်း (Archiving)](3.1_Archiving_Files.md)
+* [၃.၁ Command Line ဖြင့်ဖိုင်များကို သိမ်းဆည်းခြင်း (Archiving)](3.1_Archiving_Files.md)
 * [၃.၂ ဖိုင်များအတွင်းမှ အချက်အလက်များကို ရှာဖွေခြင်းနှင့် ထုတ်ယူခြင်း](3.2_Searching_and_Extracting_Data.md)
 * [၃.၃ Command များကို Script အဖြစ် ပြောင်းလဲခြင်း](3.3_Turning_Commands_into_a_Script.md)
 
